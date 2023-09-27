@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="your-image-url-here" alt="JavaScript Logo" width="200">
+  <img src="https://github.com/dashvanth/JavaScript_Beginning_to_Mastery/blob/main/images/JavaScript-logo.png" alt="JavaScript Logo" width="200">
 </p>
 
 # JavaScript Beginning to Mastery 🚀
@@ -7,7 +7,7 @@
 Welcome to my JavaScript learning journey from the ground up! 🌟
 
 <p align="center">
-  <img src="your-gif-or-image-url-here" alt="Learning JavaScript" width="400">
+  <img src="https://github.com/dashvanth/JavaScript_Beginning_to_Mastery/blob/main/images/js-meme.jpg" alt="Learning JavaScript" width="400">
 </p>
 
 ## Introduction
@@ -20,7 +20,7 @@ This repository is dedicated to my quest to master JavaScript, starting from the
 - **Resources**: I'll share helpful links, articles, cheat sheets, and books that have been instrumental in my learning.
 
 <p align="center">
-  <img src="your-gif-or-image-url-here" alt="Code in Action" width="400">
+  <img src="https://github.com/dashvanth/JavaScript_Beginning_to_Mastery/blob/main/images/jsking.png" alt="Code in Action" width="400">
 </p>
 
 ## Learning Path
@@ -38,9 +38,6 @@ I've chosen this name to reflect my commitment to truly mastering JavaScript, fr
 
 Feel free to explore the code and resources, and join me in my quest to become a JavaScript master. 🚀
 
-<p align="center">
-  <img src="your-gif-or-image-url-here" alt="Join the Journey" width="400">
-</p>
 
 ## Connect with Me
 
@@ -49,7 +46,7 @@ Feel free to explore the code and resources, and join me in my quest to become a
 - 🌐 Visit my personal website: [YourWebsite.com](https://wecodes.in/).
 
 <p align="center">
-  <img src="your-gif-or-image-url-here" alt="Connect with Me" width="400">
+  <img src="https://github.com/dashvanth/JavaScript_Beginning_to_Mastery/blob/main/images/connectwithme.jpg" alt="Connect with Me" width="400">
 </p>
 
 ## Acknowledgments
@@ -57,7 +54,7 @@ Feel free to explore the code and resources, and join me in my quest to become a
 I'd like to express my gratitude to the wonderful JavaScript community, the creators of the tutorials and courses I'm following, and the open-source contributors who inspire me every day. This journey wouldn't be possible without you!
 
 <p align="center">
-  <img src="your-gif-or-image-url-here" alt="Thank You" width="400">
+  <img src="https://github.com/dashvanth/JavaScript_Beginning_to_Mastery/blob/main/images/thankyoujs.png" alt="Thank You" width="400">
 </p>
 
 Happy coding and welcome to the JavaScript mastery journey! 🌟✨
