@@ -5,3 +5,4 @@
  - Arrays in JavaScript
  - Objects in JavaScript
  - Functions in JavaScript
+ - Very Important Array Methods
