@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>DOM Tutorial</title>
+    <!-- <script src="./02_selecting_elements_using_id.js" defer></script> -->
+    <!-- <script src="./03_querySelector.js" defer></script> -->
+    <!-- <script src="./04_textContent&_innerText.js" defer></script> -->
+    <!-- <script src="./05_change_styles_of_elements.js" defer></script> -->
+    <!-- <script src="./06_get_set_attributes.js" defer></script> -->
+    <!-- <script src="./07_select_multiple_items_and_looping.js" defer></script> -->
+    <!-- <script src="./08_innerHTML.js" defer></script> -->
+
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <!-- <h1>How JavaScript Works</h1> -->
+    <!-- <img src="./00_topics/topics2.jpg" alt="topics"> -->
+
+    <header class="header">
+        <nav class="nav container">
+            <h1 class="logo">Website</h1>
+            <ul class="nav-items">
+                <li class="nav-item"><a href="https://www.google.com">Home</a></li>
+                <li class="nav-item"><a href="">Todo</a></li>
+                <li class="nav-item"><a href="">Sign up</a></li>
+            </ul>
+        </nav>
+        <div class="headline">
+            <h2 id="main-heading">Manage your taks</h2>
+            <button class="btn btn-headline">Learn More</button>
+        </div>
+    </header>
+    <section class="todo-section container">
+        <h2>Your plan for today ?</h2>
+        <form class="form-todo">
+            <input type="text" name="" id="" placeholder="what's up for today?">
+            <input type="submit" value="Add task" class="btn">
+        </form>
+
+        <ul class="todo-list">
+          <li>
+            <span class="text">Wake up @ 5:00 am.</span>
+            <div class="todo-buttons">
+              <button class="todo-btn done">Done</button>
+              <button class="todo-btn remove">Remove</button>
+            </div>
+          </li>
+
+        <ul class="todo-list">
+          <li>
+            <span class="text">Workout for 1 hour.</span>
+            <div class="todo-buttons">
+              <button class="todo-btn done">Done</button>
+              <button class="todo-btn remove">Remove</button>
+            </div>
+          </li>
+        </ul>
+    </section>
+
+    <section class="section-signup container">
+        <h2>Sign Up</h2>
+        <form class="signup-form">
+          <div class="form-group">
+            <label for="username">Username</label>
+            <input type="text" name="username" id="username" />
+          </div>
+          <div class="form-group">
+            <label for="password">Password</label>
+            <input type="password" name="password" id="password" />
+          </div>
+          <div class="form-group">
+            <label for="confirmPassword">Confirm Password</label>
+            <input type="password" name="confirmPassword" id="confirmPassword" />
+          </div>
+          <div class="form-group">
+            <label for="phone">Phone</label>
+            <input type="text" name="phone" id="phone" />
+          </div>
+          <div class="form-group">
+            <label for="email">Email</label>
+            <input type="email" name="email" id="email" />
+          </div>
+          <div class="form-group">
+            <label for="about">About Yourself</label>
+            <textarea name="about" id="about" cols="30" rows="10"></textarea>
+          </div>
+          <button type="submit" class="btn signup-btn">Submit</button>
+        </form>
+      </section>
+
+
+</body>
+</html>   
+    
