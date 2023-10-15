@@ -57,7 +57,6 @@ I'd like to express my gratitude to the wonderful JavaScript community, the crea
   <img src="https://github.com/dashvanth/JavaScript_Beginning_to_Mastery/blob/main/images/thankyoujs.png" alt="Thank You" width="400">
 </p>
 
-Happy coding and welcome to the JavaScript mastery journey! 🌟✨
 
 <h1 align="center">All right reserved to <a align="center" href="https://www.linkedin.com/in/dashvanth-raj-hc">@dashvanth</a></h1>
 <h4 align="center">Made with ❤️ </h4>
